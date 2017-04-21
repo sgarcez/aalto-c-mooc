@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://check.sourceforge.net/xml/check_unittest.xslt"?>
+<testsuites xmlns="http://check.sourceforge.net/ns">
+  <datetime>2016-08-08 15:04:58</datetime>
+  <suite>
+    <title>Test-06_strbasic</title>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:26</fn>
+      <id>test_count_alpha</id>
+      <iteration>0</iteration>
+      <duration>0.000082</duration>
+      <description>test_count_alpha</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:42</fn>
+      <id>test_count_substr</id>
+      <iteration>0</iteration>
+      <duration>0.000041</duration>
+      <description>test_count_substr</description>
+      <message>Passed</message>
+    </test>
+  </suite>
+  <duration>0.006245</duration>
+</testsuites>
